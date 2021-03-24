@@ -1,6 +1,6 @@
 # NLP_Homeworks_HSE_University_Module3_4
 
-This assignment is contains three tasks:
+This assignment contains three tasks:
 
    1) Write a function which picks rhymes for a word using CMU Pronouncing Dictionary (nltk.corpus.cmudict). Two words usually rhyme if their pronunciation from the stressed syllable till the end of the word is the same.
    
