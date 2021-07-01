@@ -1,6 +1,6 @@
 # NLP_Homeworks_HSE_University_Module3_4
 
-## [Homework 1](NLP_Homework1_HSE_Module3_4.ipynb) contains three tasks:
+## [Homework 1](https://github.com/Majid-Sohrabi/NLP_Homeworks_HSE_University_Module3_4/blob/main/Homework_1/NLP_Homework1_HSE_Module3_4.ipynb) contains three tasks:
 
    1) Write a function which picks rhymes for a word using CMU Pronouncing Dictionary (nltk.corpus.cmudict). Two words usually rhyme if their pronunciation from the stressed syllable till the end of the word is the same.
    
@@ -11,7 +11,7 @@
    3) Write a code for Hangman game (https://en.wikipedia.org/wiki/Hangman_(game)). The code should select a random word from a dictionary (e. g. nltk.corpus.words) and show it to the user, replacing letters with dots. The user has to guess the word, naming one letter per move. If the named letter is there within the word, then all its occurrences are shown, otherwise the user loses an attempt. The user wins if (s)he opens all the letters before all attempts are spent, otherwise (s)he fails. You do not have to draw the hangman, just count the attempts left.
 
 
-## Homework 2
+## [Homework 2](https://github.com/Majid-Sohrabi/NLP_Homeworks_HSE_University_Module3_4/blob/main/Homework_2/NLP_Homework2_HSE_Module3_4.ipynb)
 
    1) Build your own POS tagger for Russian training it on the disambiguated part of opencorpora corpus. You can choose from a number of methods described in chapters 5 and 6 of the book such as Unigram/Biggram Taggers, AffixTagger or NaiveBayes/DecisionTree/Maxent Classifiers. Try to achieve best performance analyzing errors that your tagger makes. Compare your performance with pymorphy2.
 
